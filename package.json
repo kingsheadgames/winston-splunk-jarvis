@@ -1,0 +1,19 @@
+{
+  "name": "winston-splunk-jarvis",
+  "version": "0.0.1",
+  "description": "Magic Pixel Games winston module to log to splunk via streaming HTTP",
+  "author": {
+    "name": "Michael Seegers",
+    "email": "michael@magicpixelgames.com",
+    "url": "http://www.magicpixelgames.com"
+  },
+  "main": "./lib/winston-splunk-jarvis",
+  "dependencies": {
+    "request": "2.34.0"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "_id": "winston-splunk-jarvis@0.0.1",
+  "_from": "winston-splunk-jarvis@0.0.1"
+}
